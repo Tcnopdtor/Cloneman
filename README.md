@@ -1,9 +1,9 @@
-# pacman
-New Fb Cloning Commands PACMAN-Bolt
+# Cloneman
+New Fb Cloning Commands Cloneman-HunT
 >>Features:
 >>Friendlist cloning
 >>Target bruteforce
->>Pakistan , india ,usa passlist included
+>>INDIA, PAKISTAN, USA passlist included
 
 >>>USE OLD VERISON OF TERMUX IF YOU FACE ANY LOGIN PROBLEM
 
@@ -15,8 +15,8 @@ apt install python python2 git -y
 
 pip2 install requests mechanize
 
-git https://github.com/faizanwahla/pacman.git
+git https://github.com/Tcnopdtor/Cloneman
 
-cd pacman
+cd Cloneman
 
-python2 bolt
+python2 Hunt
